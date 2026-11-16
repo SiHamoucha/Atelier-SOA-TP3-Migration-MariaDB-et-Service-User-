@@ -1,0 +1,10 @@
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\Biblio3Application.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\controller\LivresController.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\model\livre.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\repository\LivreRepository.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\service\livreservice.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\users\Biblio3UsersApplication.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\users\controller\UserController.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\users\model\User.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\users\repository\UserRepository.java
+C:\Users\Laptop-PC\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\biblio3-livres\src\main\java\com\biblio\biblio3\users\service\UserService.java
